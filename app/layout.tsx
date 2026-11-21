@@ -1,4 +1,4 @@
-// @ts-expect-error Global CSS is handled by Next.js.
+
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
 export default function RootLayout({
